@@ -1,0 +1,36 @@
+.side {
+    padding: 10px;
+}
+.box {
+    width: 55%;
+    border: 1px solid black;
+    margin: auto;
+}
+header, footer {
+    padding: 20px;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+aside {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 20px;
+}
+aside ul {
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+article {
+    margin-left: 170px;
+    border-left: 1px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
